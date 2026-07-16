@@ -6,6 +6,11 @@ It reads your main configuration file, extracts sections demarcated by dashed co
 
 ---
 
+## Run from terminal  
+
+curl -fsSL https://raw.githubusercontent.com/ppkcomputers/Split-Hyprland-Lua-File/main/split-lua.py -o split-lua.py && chmod +x split-lua.py && ./split-lua.py  
+
+
 ## Features
 
 * **Universal Path Detection:** Respects `XDG_CONFIG_HOME` and falls back seamlessly to `~/.config/hypr/`.
