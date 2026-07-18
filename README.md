@@ -36,4 +36,4 @@ curl -fsSL https://raw.githubusercontent.com/ppkcomputers/Split-Hyprland-Lua-Fil
 Before running the script, you need to grant it execution permissions using `chmod`. Open your terminal and run:
 
 ```bash
-chmod +x split_hyprland.py
+chmod +x split-lua.py
